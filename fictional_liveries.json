@@ -31,6 +31,22 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
+                {
+                    "name": "GeoFS: Defying the Lwas of Physics",
+                    "texture": [
+                        "/models/aircraft/premium/737_700/specular.jpg",
+                        "https://raw.githubusercontent.com/AbnormalHuman/GeoFS-Liveries-Storage/main/B737/fictional/Physless.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
+                {
+                    "name": "Air Koryo",
+                    "texture": [
+                        "/models/aircraft/premium/737_700/specular.jpg",
+                        "https://raw.githubusercontent.com/AbnormalHuman/GeoFS-Liveries-Storage/main/B737/fictional/Air%20Koryo.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
             ],
             "labels": [
                 "Specular shader",
@@ -268,6 +284,13 @@
         "3575": {
             "name": "Boeing b787-9",
             "liveries": [
+                {
+                    "name": "Air Koryo",
+                    "texture": [
+                        "https://raw.githubusercontent.com/AbnormalHuman/GeoFS-Liveries-Storage/main/B789/fictional/UAL%20(Saul%20Bass%20Livery).jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
             ],
             "labels": [
                 "Texture"
