@@ -1,7 +1,7 @@
 {
     "name": "Fictional Liveries",
     "color": "white",
-    "bgcolor": "blue",
+    "bgcolor": "#25405E",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
