@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "Fictional Liveries",
+    "color": "white",
+    "bgcolor": "blue",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -32,7 +32,7 @@
             "name": "Boeing b737-700",
             "liveries": [
                 {
-                    "name": "GeoFS: Defying the Lwas of Physics",
+                    "name": "GeoFS: Defying the Laws of Physics",
                     "texture": [
                         "/models/aircraft/premium/737_700/specular.jpg",
                         "https://raw.githubusercontent.com/AbnormalHuman/GeoFS-Liveries-Storage/main/B737/fictional/Physless.jpg"
